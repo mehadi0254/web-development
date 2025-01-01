@@ -1,0 +1,18 @@
+nav{
+    background: skyblue;
+    padding: 20px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+nav ul li {
+    list-style: none;
+    background-color: white;
+    padding: 5px;
+    color: coral;
+}
+.bingo{
+    display: flex;
+    justify-content: flex-end;
+}
